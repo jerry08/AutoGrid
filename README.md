@@ -1,16 +1,16 @@
-SpicyTaco.WpfToolkit
+WpfToolkit
 ==================
 
 A magical replacement for the built in WPF Grid and StackPanel.
 
-> **NOTE:** I'm in the process of renaming this project from SpicyTaco.AutoGrid to SpicyTaco.WpfToolkit. This is because I plan to add more useful features to this package beyond just AutoGrid.
+> **NOTE:** I'm in the process of renaming this project from AutoGrid to WpfToolkit. This is because I plan to add more useful features to this package beyond just AutoGrid.
 
 ## Installation
 
-To add SpicyTaco.WpfToolkit to your WPF project, all you have to do is install it from NuGet:
+To add WpfToolkit to your WPF project, all you have to do is install it from NuGet:
 
 ```
-Install-Package SpicyTaco.AutoGrid
+Install-Package AutoGrid
 ```
 
 Usage Examples
