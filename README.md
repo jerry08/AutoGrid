@@ -97,9 +97,3 @@ Also, I've always wanted a simple container which would apply a margin but only 
     <Button Content="Save"/>
 </st:StackPanel>
 ```
-
-Credits
--------
-
-<img src="icon/icon_61620.png" alt="Icon" style="width: 128px; height: 128px;"/><br/>
-[Furious designed by Matt Brooks from the Noun Project](http://thenounproject.com/Mattebrooks/icon/61620/)
